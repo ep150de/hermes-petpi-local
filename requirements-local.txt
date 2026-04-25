@@ -1,0 +1,7 @@
+numpy
+Pillow
+requests
+python-dotenv
+# Local LLM dependencies (optional)
+# ollama — pip install ollama  # if using Ollama REST API
+# llama-cpp-python — if using llama.cpp Python bindings
